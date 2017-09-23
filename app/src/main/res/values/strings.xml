@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">JumboDrinkCounter</string>
+    <string name="top_message">If you take a shot, SMASH that button.</string>
+    <string name="mid_message">You\'ve had </string>
+    <string name="drinks">drinks</string>
+    <string name="zero">0</string>
+    <string name="drunk">Alright bud, it\'s time to go home. You\'re drunk!</string>
+</resources>
